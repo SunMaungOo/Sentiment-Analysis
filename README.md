@@ -13,5 +13,11 @@ another file need to contain a negative sentiment.
 
 Look at the folder in the repo for example.
 
+**Dependencies**
+
+GSL : Guidelines Support Library (https://github.com/microsoft/GSL)
+
+Catch2 (https://github.com/catchorg/Catch2)
+
 
 
